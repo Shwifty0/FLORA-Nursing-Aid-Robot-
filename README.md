@@ -17,4 +17,5 @@ Since we have established that the profession of Nursing is an integral part of 
 ## Implemented Solution
 In order to cater to the problem statement, we have created a robot that collaborates with Nurses to maximize their efficiency by automating logistic tasks concerned with medical equipment and supply storage.
 ![Solution Image 2](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/f4e4d9e7-c261-46a9-ae59-b0b68ff87d7d)
-![Solution Image 3](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/1c7cf008-6b04-420a-91e9-cdf3dd16d389)
+
+![image](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/26f89fca-5ddb-4e65-b7d9-555888f8f6d5)
