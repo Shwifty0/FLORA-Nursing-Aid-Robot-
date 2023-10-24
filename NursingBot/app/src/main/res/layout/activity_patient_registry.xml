@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".PatientRegistry">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="30dp"
+        android:gravity="center"
+        android:text="PATIENT REGISTRY"
+        android:textColor="@color/black"
+        android:textSize="36dp" />
+
+
+    <EditText
+        android:id="@+id/patientname"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/title"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/regedittext"
+        android:hint="Patient Name"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/mrtag"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/patientname"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/regedittext"
+        android:hint="MR Number/ID"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/medicine1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/mrtag"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/regedittext"
+        android:hint="Medicine 1"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/medicine2"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/medicine1"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/regedittext"
+        android:hint="Medicine 2"
+        android:inputType="text"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        android:textColorHint="@color/grey"
+        android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:layout_below="@id/medicine2"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/custom_btn"
+        android:backgroundTint="@color/purple_200"
+        android:onClick="savePatient"
+        android:text="SAVE"
+        android:textSize="22sp" />
+
+</RelativeLayout>
+
+
+
+
+
+
+
+
+
