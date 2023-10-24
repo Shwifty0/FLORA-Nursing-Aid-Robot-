@@ -15,11 +15,11 @@ Since we have established that the profession of Nursing is an integral part of 
 ![Problem Statement Image](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/205b22b2-98c0-4cbb-83bb-ef42834551c4)
 
 `Since we have established that the profession of  Nursing is an integral part of patient care, and it  constantly is required to adapt to changes in the  healthcare system. A role for robots to aid nurses  exists both in hospitals and elderly care facilities.  Robots may effectively relieve the burden on Nurses  allowing them to concentrate on tasks pertaining to  their primary duties.`
-![image](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/a2d4c3ea-b395-40a0-a624-b75ecc38f175)
 
 ## Implemented Solution
 In order to cater to the problem statement, we have created a robot that collaborates with Nurses to maximize their efficiency by automating logistic tasks concerned with medical equipment and supply storage.
 
-![Solution Image 1](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/f4e4d9e7-c261-46a9-ae59-b0b68ff87d7d)
+![image](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/6f802140-6f9e-4e41-abcc-4aad5a641859)
+
 
 ![Solution Image 2](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/ab8e6ea8-6280-41bf-8c23-30d46fc9cc66)
