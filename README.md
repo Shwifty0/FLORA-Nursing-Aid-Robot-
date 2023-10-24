@@ -21,5 +21,6 @@ In order to cater to the problem statement, we have created a robot that collabo
 
 ![image](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/6f802140-6f9e-4e41-abcc-4aad5a641859)
 
+![image](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/ea0da411-dcb4-4dab-882f-6dd0e04a94d0)
 
 ![Solution Image 2](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/ab8e6ea8-6280-41bf-8c23-30d46fc9cc66)
