@@ -1,5 +1,8 @@
 # FLORA-Nursing-Aid-Robot
 
+![image](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/9a21a9e1-1929-494a-9f46-8d6b1573a213)
+
+
 **Final Year Project**  
 *Muhammad Ozair (02-132182-019)*
 
@@ -20,7 +23,3 @@ In order to cater to the problem statement, we have created a robot that collabo
 
 
 ![image](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/6f802140-6f9e-4e41-abcc-4aad5a641859)
-
-
-![image](https://github.com/Shwifty0/FLORA-Nursing-Aid-Robot-/assets/102323082/9a21a9e1-1929-494a-9f46-8d6b1573a213)
-
